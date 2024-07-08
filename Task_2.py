@@ -31,3 +31,4 @@ while True:
     generate_request()
     # Виконати process_request() для обробки заявок
     process_request()
+
